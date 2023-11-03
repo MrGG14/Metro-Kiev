@@ -8,4 +8,6 @@ tendrán en cuenta aquellos que puedan ser obtenidos con la información existen
 utilizará el algoritmo de búsqueda en la optimización de caminos de coste mínimo en
 grafos de decisión A*. 
 
+![Plano metro de Kiev](https://github.com/MrGG14/Metro-Kiev/blob/main/plano.png)
+
 Se implementara la solucion en una interfaz grafica.
